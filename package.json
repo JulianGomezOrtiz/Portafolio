@@ -1,0 +1,19 @@
+{
+  "name": "miportafolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianGomezOrtiz/Portafolio.git"
+  },
+  "author": "Julian Gomez Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianGomezOrtiz/Portafolio/issues"
+  },
+  "homepage": "https://github.com/JulianGomezOrtiz/Portafolio#readme",
+  "description": ""
+}
